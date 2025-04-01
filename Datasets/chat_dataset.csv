@@ -1,0 +1,585 @@
+Question,sentiment
+I really enjoyed the movie,Positive
+The food was terrible,Negative
+I'm not sure how I feel about this,Neutral
+The service was excellent,Positive
+I had a bad experience,Negative
+This is a great product,Positive
+I wouldn't recommend this,Negative
+The price is a bit high,Neutral
+The weather is perfect today,Positive
+The traffic is horrible,Negative
+I'm feeling Neutral about this,Neutral
+The concert was amazing,Positive
+The customer service was terrible,Negative
+This book is a masterpiece,Positive
+I regret buying this product,Negative
+The view from here is breathtaking,Positive
+I don't know what to think about this,Neutral
+The internet speed is slow,Negative
+The museum was fascinating,Positive
+The noise level is too high,Negative
+I don't have an opinion on this,Neutral
+The hotel room was spacious and clean,Positive
+The service at this restaurant was awful,Negative
+This software is very user-friendly,Positive
+The quality of the product is poor,Negative
+I don't really care about this,Neutral
+The beach was crowded,Negative
+This is an excellent company to work for,Positive
+The movie was a waste of time,Negative
+I'm undecided about this,Neutral
+The game was a complete disaster,Negative
+The scenery here is beautiful,Positive
+The speaker was very engaging,Positive
+I had a great time,Positive
+This product is overpriced,Negative
+I'm indifferent to this,Neutral
+The performance was outstanding,Positive
+The car broke down on the highway,Negative
+I don't have strong feelings about this,Neutral
+The food was delicious,Positive
+The service at this hotel was terrible,Negative
+This phone is amazing,Positive
+I'm not impressed with this,Negative
+I have mixed feelings about this,Neutral
+The weather is terrible today,Negative
+The book was a disappointment,Negative
+I don't care one way or the other,Neutral
+The hike was exhausting,Negative
+This is a fantastic product,Positive
+I don't know what to make of this,Neutral
+The customer service was great,Positive
+The noise level is tolerable,Neutral
+The hotel room was dirty and cramped,Negative
+I'm very pleased with this,Positive
+The traffic is light,Positive
+This movie was boring,Negative
+I have no opinion on this,Neutral
+The beach was beautiful,Positive
+The food was average,Neutral
+I regret wasting my money on this product,Negative
+The view from here is average,Neutral
+The museum was boring,Negative
+I don't really care about this topic,Neutral
+The hotel was noisy at night,Negative
+This software is difficult to use,Negative
+The game was exciting,Positive
+The speaker was boring,Negative
+I didn't enjoy this at all,Negative
+The car is in great condition,Positive
+I'm not sure what to think about this,Neutral
+The service at this restaurant was excellent,Positive
+The scenery here is average,Neutral
+This company is terrible,Negative
+The movie was great,Positive
+I'm not satisfied with this product,Negative
+I have no strong feelings about this,Neutral
+The weather is wonderful today,Positive
+The book was amazing,Positive
+I don't have a preference,Neutral
+The hike was refreshing,Positive
+This is a terrible product,Negative
+The performance was mediocre,Neutral
+I'm not sure if I like this,Neutral
+The food was not very good,Negative
+The service at this hotel was great,Positive
+This phone is not very user-friendly,Negative
+I'm impressed with this,Positive
+The traffic is moderate,Neutral
+This movie was entertaining,Positive
+I have no interest in this,Neutral
+The beach was peaceful,Positive
+The food was outstanding,Positive
+I regret not buying this product,Positive
+The view from here is stunning,Positive
+The museum was informative,Positive
+I don't have strong feelings either way,Neutral
+The hotel was comfortable,Positive
+This software is very complicated,Negative
+The game was challenging,Positive
+The speaker was inspiring,Positive
+I enjoyed this very much,Positive
+The car is not reliable,Negative
+I'm ambivalent about this,Neutral
+The service at this restaurant was mediocre,Neutral
+The scenery here is breathtaking,Positive
+This company is excellent,Positive
+The movie was okay,Neutral
+I'm not happy with this product,Negative
+I don't really have an opinion on this,Neutral
+The weather is nice today,Positive
+The book was okay,Neutral
+I don't care about this,Neutral
+The hike was invigorating,Positive
+This is a terrible company,Negative
+The performance was below average,Negative
+I'm not sure if I want to pursue this,Neutral
+The food was not bad,Neutral
+The service at this hotel was mediocre,Neutral
+This phone is just okay,Neutral
+The traffic is heavy,Negative
+This movie was disappointing,Negative
+I'm not interested in this,Neutral
+The beach was dirty,Negative
+The food was terrible and overpriced,Negative
+I regret buying this,Negative
+The view from here is unremarkable,Neutral
+The museum was dull,Negative
+I have no strong opinion on this,Neutral
+The hotel was noisy during the day,Neutral
+This software is frustrating to use,Negative
+The game was boring,Negative
+The speaker was uninteresting,Negative
+I did not enjoy this,Negative
+The car is expensive,Negative
+I'm unsure about this,Neutral
+The service at this restaurant was poor,Negative
+The scenery here is unimpressive,Neutral
+This company is awful,Negative
+The movie was terrible,Negative
+I'm very unhappy with this product,Negative
+I have no preference,Neutral
+The weather is awful today,Negative
+The book was boring,Negative
+I'm not interested in this topic,Neutral
+The hike was difficult,Negative
+This is a useless product,Negative
+The performance was excellent,Positive
+I'm on the fence about this,Neutral
+The food was not good,Negative
+The service at this hotel was poor,Negative
+This phone is disappointing,Negative
+The traffic is unbearable,Negative
+This movie was not worth watching,Negative
+I don't care one way or the other,Neutral
+The beach was crowded and dirty,Negative
+The food was below average,Negative
+I regret purchasing this product,Negative
+The view from here is unappealing,Negative
+The museum was uninteresting,Negative
+I have no strong feelings about this,Neutral
+The hotel was overpriced,Negative
+This software is a nightmare to use,Negative
+The game was frustrating,Negative
+The speaker was dull,Negative
+I wouldn't recommend this,Negative
+The car is old and unreliable,Negative
+I'm undecided about this,Neutral
+The service at this restaurant was terrible,Negative
+The scenery here is unremarkable,Neutral
+This company is horrible,Negative
+The movie was not enjoyable,Negative
+I'm dissatisfied with this product,Negative
+I have no opinion on this,Neutral
+The weather is terrible today,Negative
+The book was not interesting,Negative
+I really enjoyed the movie,Positive
+The food was terrible,Negative
+I'm not sure how I feel about this,Neutral
+The service was excellent,Positive
+I had a bad experience,Negative
+This is a great product,Positive
+I wouldn't recommend this,Negative
+The price is a bit high,Neutral
+I don't care about this subject,Neutral
+The hike was uneventful,Neutral
+This is an average product,Neutral
+The performance was good,Neutral
+I have mixed feelings about this,Neutral
+The food was satisfactory,Neutral
+The service at this hotel was average,Neutral
+This phone is average,Neutral
+The traffic is typical for this time of day,Neutral
+This movie was average,Neutral
+I'm indifferent to this,Neutral
+The beach was average,Neutral
+The museum was average,Neutral
+I have no opinion on this,Neutral
+The hotel was average,Neutral
+This software is average,Neutral
+The game was average,Neutral
+The speaker was average,Neutral
+I have no strong emotions about this,Neutral
+The car is average,Neutral
+I don't have a preference,Neutral
+The service at this restaurant was average,Neutral
+The scenery here is average,Neutral
+This company is average,Neutral
+The book was average,Neutral
+I have no strong feelings one way or the other,Neutral
+The weather is average today,Neutral
+I'm not particularly interested in this,Neutral
+The hike was average,Neutral
+This is a typical product,Neutral
+The performance was average,Neutral
+I'm Neutral on this,Neutral
+The food was average,Neutral
+The service at this hotel was standard,Neutral
+This phone is standard,Neutral
+The traffic is normal,Neutral
+This movie was mediocre,Neutral
+I have no strong opinion about this,Neutral
+The beach was unremarkable,Neutral
+The museum was standard,Neutral
+I have no strong feelings about this,Neutral
+The hotel was standard,Neutral
+This software is standard,Neutral
+The game was standard,Neutral
+The speaker was standard,Neutral
+I'm indifferent to this,Neutral
+The car is standard,Neutral
+I have no preference,Neutral
+The service at this restaurant was standard,Neutral
+The scenery here is standard,Neutral
+This company is standard,Neutral
+The book was standard,Neutral
+I don't feel strongly about this,Neutral
+The weather is normal today,Neutral
+I have no particular interest in this,Neutral
+The hike was standard,Neutral
+This is a regular product,Neutral
+The performance was satisfactory,Neutral
+I'm undecided on this,Neutral
+The food was regular,Neutral
+The service at this hotel was okay,Neutral
+This phone is regular,Neutral
+The traffic is average,Neutral
+This movie was regular,Neutral
+I have no opinion on this,Neutral
+The beach was typical,Neutral
+The museum was okay,Neutral
+I have no strong opinions about this,Neutral
+The hotel was average,Neutral
+This software is regular,Neutral
+The game was average,Neutral
+The speaker was average,Neutral
+I'm Neutral about this,Neutral
+The car is average,Neutral
+I have no preference,Neutral
+The service at this restaurant was okay,Neutral
+The scenery here is regular,Neutral
+This company is regular,Neutral
+The book was okay,Neutral
+I'm Neutral on this,Neutral
+The weather is regular today,Neutral
+I don't have a particular interest in this,Neutral
+The hike was regular,Neutral
+This is an ordinary product,Neutral
+The performance was typical,Neutral
+I'm Neutral about this,Neutral
+The food was ordinary,Neutral
+The service at this hotel was average,Neutral
+This phone is ordinary,Neutral
+The traffic is standard,Neutral
+This movie was ordinary,Neutral
+I have no strong opinions on this,Neutral
+The beach was standard,Neutral
+The museum was average,Neutral
+I have no opinion on this,Neutral
+The hotel was ordinary,Neutral
+This software is ordinary,Neutral
+The pizza was delicious,Positive
+I had an amazing time at the party,Positive
+The hotel was great,Positive
+This phone is fantastic,Positive
+The view from the top was breathtaking,Positive
+The customer service was excellent,Positive
+I love this product,Positive
+The movie was fantastic,Positive
+I had a great experience,Positive
+The food was delicious,Positive
+The staff at the restaurant was wonderful,Positive
+I'm really happy with my purchase,Positive
+The hotel room was comfortable,Positive
+I enjoyed every moment of my vacation,Positive
+The service at this spa was amazing,Positive
+I'm impressed with the quality of this product,Positive
+The atmosphere at the party was fun,Positive
+This restaurant has amazing food,Positive
+The staff at the hotel were friendly and helpful,Positive
+The concert was incredible,Positive
+I'm in love with this place,Positive
+The drinks were great,Positive
+The service at this restaurant was excellent,Positive
+I can't wait to come back here,Positive
+The hotel staff went above and beyond,Positive
+I'm so glad I tried this product,Positive
+The beach was beautiful,Positive
+The staff at the store were so helpful,Positive
+This is the best phone I've ever owned,Positive
+The show was amazing,Positive
+I'm so happy I booked this vacation,Positive
+The coffee was excellent,Positive
+The staff at the spa were very professional,Positive
+I'm really impressed with this company,Positive
+The service at the hotel was outstanding,Positive
+The food at this restaurant was top-notch,Positive
+I love the design of this product,Positive
+The hotel amenities were great,Positive
+The staff at the museum were very knowledgeable,Positive
+I had a wonderful time at the event,Positive
+I'm so grateful for the help I received from customer service,Positive
+The product exceeded my expectations,Positive
+The room was clean and comfortable,Positive
+I'm really enjoying this book,Positive
+The service at this salon was top-notch,Positive
+I'm so glad I made this purchase,Positive
+The food at the wedding was delicious,Positive
+Hey.. what's up? 😀,Neutral
+I'm feeling so-so 😕,Neutral
+Thanks for your help! 🙏,Neutral
+I'm not sure what to do 😕,Neutral
+Can we reschedule our meeting? 📅,Neutral
+I'm on my way! 🚗,Neutral
+This weather is crazy ☀️🌧️,Neutral
+I'm not feeling great 😷,Neutral
+I'm looking forward to our vacation! 🌴🏖️,Neutral
+I don't know what I want to eat 🍽️,Neutral
+I'm in the middle of something. can I call you back later? 📱,Neutral
+I'm trying to decide between two options 🤔,Neutral
+It was nice meeting you! 👋,Neutral
+I'm just hanging out at home 🏠,Neutral
+I'm not really sure what you mean 🤷‍♀️,Neutral
+I'm sorry. I can't make it to the party 🎉,Neutral
+I'm so tired 😴,Neutral
+Can you remind me of the details? 🤔,Neutral
+I'm not feeling very productive today 📉,Neutral
+I'm just doing some work from home today 💻,Neutral
+I don't know if I have time for that 🕑,Neutral
+I'm not sure if I'm doing this right 🤷‍♂️,Neutral
+I'm feeling a bit overwhelmed 😰,Neutral
+I'm not sure what to wear today 👗,Neutral
+I'm thinking about going for a run 🏃‍♀️,Neutral
+I'm not sure if I'm ready for this 🤔,Neutral
+I'm just hanging out with friends tonight 🍻,Neutral
+I'm really hungry 🍔,Neutral
+I'm feeling a bit better now 😊,Neutral
+I'm not sure if I can make it to the meeting 🤷‍♂️,Neutral
+I'm not feeling well today 🤒,Neutral
+I'm trying to stay Positive 😊,Neutral
+I'm not sure what to say 🤷‍♀️,Neutral
+I'm feeling pretty good today 👍,Neutral
+I'm feeling a bit lost right now 🌪️,Neutral
+I'm just taking it easy today 🛀,Neutral
+I'm not sure if I'm ready for this 🙈,Neutral
+I'm feeling a bit anxious 😬,Neutral
+I'm not sure what to do next 🤔,Neutral
+I'm not really sure how to respond to that 🤷‍♂️,Neutral
+I'm just enjoying the nice weather ☀️,Neutral
+I'm feeling a bit under the weather 🤧,Neutral
+I'm not sure if I should go to the gym 🤔,Neutral
+I'm feeling a bit overwhelmed with work 😓,Neutral
+I'm just relaxing at home 🛋️,Neutral
+I'm not sure if I want to do that 🤔,Neutral
+I'm feeling a bit bored 😐,Neutral
+I'm not sure if I'm up for that 🤷‍♀️,Neutral
+I'm just trying to stay focused 🧐,Neutral
+I'm feeling a bit stressed out 😫,Neutral
+I'm not sure if I'm ready to make that decision 🤷‍♂️,Neutral
+I'm feeling a bit distracted today 🤯,Neutral
+I'm not sure if I'm doing this right 🤨,Neutral
+I'm just hanging out with my family today 👨‍👩‍👧‍👦,Neutral
+I'm feeling a bit uncertain about things right now 🤔,Neutral
+I'm not sure what to make for dinner 🤷‍♀️,Neutral
+I'm just taking it one day at a time 📆,Neutral
+I'm feeling a bit restless today 🤫,Neutral
+I'm not sure if I'm in the mood for that 🤷‍♂️,Neutral
+I'm just trying to stay Positive 😌,Neutral
+I'm feeling a bit out of my comfort zone 😬,Neutral
+I'm not sure if I can make it to the event 🤷‍♀️,Neutral
+I'm just enjoying some alone time 🧘‍♀️,Neutral
+I'm feeling a bit stuck right now 🚶‍♀️,Neutral
+I'm not sure what to do with my free time 🤷‍♂️,Neutral
+I'm just trying to figure things out 🔍,Neutral
+I'm feeling a bit overwhelmed with everything going on 😩,Neutral
+I'm not sure if I'm making the right decision 🤔,Neutral
+I'm just taking things one step at a time 🚶‍♂️,Neutral
+I'm feeling a bit frustrated today 😤,Neutral
+I'm not sure if I should say anything 🤫,Neutral
+I'm just trying to keep things in perspective 🌅,Neutral
+I'm feeling a bit confused right now 🤷‍♀️,Neutral
+I'm not sure what to do next 🤷‍♂️,Neutral
+I'm just trying to stay focused on my goals 🎯,Neutral
+I'm feeling a bit lost without my phone 📱,Neutral
+I'm not sure if I should go out tonight 🤔,Neutral
+I'm just trying to find my way 🗺️,Neutral
+I'm feeling a bit bored with my routine 🥱,Neutral
+I'm not sure what to do with my spare time 🤷‍♀️,Neutral
+I'm just trying to keep my head above water 🌊,Neutral
+I'm feeling a bit restless today 🕺,Neutral
+I'm not sure if I'm up for that challenge 🤷‍♂️,Neutral
+I'm just trying to stay Positive and keep moving forward 🚶‍♀️,Neutral
+I'm feeling a bit uncertain about the future 🤨,Neutral
+I'm not sure what to do with my life 🤔,Neutral
+I'm just trying to make the most of every day 🌞,Neutral
+I'm feeling a bit overwhelmed with everything on my plate 🍽️,Neutral
+I'm not sure if I'm ready to take that risk 🤔,Neutral
+I'm just trying to stay focused on my work 💼,Neutral
+I'm feeling a bit stressed out today 😩,Neutral
+I'm not sure what to do with my weekend 🤷‍♀️,Neutral
+I'm just trying to find some balance in my life ⚖️,Neutral
+I'm feeling a bit lost without a plan 📝,Neutral
+I'm not sure if I should reach out to them 🤔,Neutral
+I'm feeling so happy today 😃,Positive
+I'm loving this beautiful weather ☀️,Positive
+I'm so grateful for my friends and family 🙏,Positive
+I'm feeling great after my workout this morning 💪,Positive
+I'm enjoying this delicious meal 🍽️,Positive
+I'm feeling so proud of myself for accomplishing my goals 🏆,Positive
+I'm loving spending time with my significant other ❤️,Positive
+I'm feeling so blessed to have such amazing people in my life 🥰,Positive
+I'm enjoying this relaxing day at home 🏡,Positive
+I'm feeling so inspired by the people around me 💡,Positive
+I'm loving this new book I'm reading 📚,Positive
+I'm feeling so motivated to tackle my to-do list today 📝,Positive
+I'm enjoying this beautiful scenery 🌅,Positive
+I'm feeling so excited for the future 🔮,Positive
+I'm loving this new hobby I picked up 🎨,Positive
+I'm feeling so grateful for all the opportunities in my life 🙌,Positive
+I'm enjoying this fun night out with friends 🎉,Positive
+I'm feeling so happy to be alive and healthy 🌟,Positive
+I'm loving this new music I discovered 🎶,Positive
+I'm feeling so fulfilled by my work and accomplishments 👍,Positive
+I'm enjoying this much-needed vacation 🌴,Positive
+I'm feeling so content with my life right now 😊,Positive
+I'm loving this cozy evening in with a good movie 🍿,Positive
+I'm feeling so lucky to have such supportive people in my life 🍀,Positive
+I'm enjoying this beautiful view from the top of the mountain ⛰️,Positive
+I'm so excited for the concert tonight! 🎤🎶,Positive
+I just got a promotion at work! 🎉🎊,Positive
+I love spending time with my family ❤️,Positive
+I had the best vacation ever! 🌴🌞,Positive
+I'm so happy to be back home with my loved ones 😍,Positive
+I just finished a project I've been working on for months! 💪,Positive
+I'm grateful for all the good things in my life 🙏,Positive
+I just got a surprise visit from an old friend! 😃,Positive
+I love trying new foods and flavors! 🍴😋,Positive
+I had an amazing date last night 😍,Positive
+I'm so proud of my accomplishments this year 🎓,Positive
+I love spending time in nature 🌳🍂,Positive
+I just completed a marathon! 🏃‍♀️🏅,Positive
+I'm so grateful for the people in my life who support me 💕,Positive
+I love seeing my favorite band live in concert! 🤘🎶,Positive
+I just received a compliment from my boss 🤗,Positive
+I'm so happy to be surrounded by Positive people! 😊,Positive
+I love learning new things and expanding my knowledge 📚🤓,Positive
+I just got a new puppy and he's the cutest thing ever! 🐶❤️,Positive
+I'm grateful for the little things in life 🌻,Positive
+I just won first place in a competition! 🥇🏆,Positive
+I'm so lucky to have such a supportive and loving partner 💑💕,Positive
+I love exploring new places and cultures 🌎🧳,Positive
+I just achieved a personal goal I set for myself! 🎯💪,Positive
+I'm so grateful for the beautiful weather today ☀️,Positive
+I love seeing my friends and catching up with them! 🤗❤️,Positive
+I just received a thoughtful gift from someone special 🎁😍,Positive
+I'm so happy to have a job I love and am passionate about 💼😊,Positive
+I love spending time with my pets 🐱🐶,Positive
+I just completed a challenging workout! 💪🏋️‍♂️,Positive
+I'm so grateful for the opportunities I have in life 🙌,Positive
+I love trying new things and stepping out of my comfort zone! 🌟,Positive
+I just got a great grade on a test I studied hard for! 📝👍,Positive
+I'm so happy to have supportive and loving friends! ❤️,Positive
+I love going on adventures and exploring new things 🏞️🚣‍♀️,Positive
+I just completed a difficult task and it feels amazing! 😎💪,Positive
+I'm so grateful for my health and well-being 🏥💪,Positive
+I love spending time with my significant other and creating new memories ❤️,Positive
+I just received a promotion at work! 🎉🎊💼,Positive
+I'm so happy to be surrounded by positivity and good vibes! 😊✨,Positive
+I love trying new things and pushing my limits! 🤩💪,Positive
+I just achieved a major milestone in my personal life! 🌟🎯,Positive
+I'm feeling so down today... 😔,Negative
+I just found out I didn't get the job I applied for 😢,Negative
+I hate feeling so stressed and overwhelmed 😩,Negative
+I had a terrible day at work today 😞,Negative
+I'm so disappointed in myself for making that mistake 😞,Negative
+I just went through a breakup and it hurts so much 😢💔,Negative
+I can't believe I failed that exam 😭,Negative
+I hate feeling so alone and isolated 😔,Negative
+I'm so tired of dealing with drama and negativity 😒,Negative
+I just lost my wallet and all my important documents... 😫,Negative
+I'm so sick and tired of feeling sick and tired 😷😴,Negative
+I hate the way I look in this outfit... 😒,Negative
+I just got into a fight with my best friend 😔💔,Negative
+I'm so stressed out about everything going on in my life 😞,Negative
+I hate feeling so powerless and helpless 😔,Negative
+I just got some bad news and I don't know how to deal with it 😞,Negative
+I'm so disappointed in someone I trusted... 😒💔,Negative
+I can't believe how much work I have to do and how little time I have 😩💼,Negative
+I hate feeling so anxious and on edge all the time 😔😟,Negative
+I just got rejected by someone I really liked... 😢💔,Negative
+I'm so tired of feeling like nothing is going right in my life 😒,Negative
+I hate the way people are treating me lately... 😒,Negative
+I just lost my pet and I'm heartbroken 😭💔,Negative
+I'm so frustrated with myself for not being able to do better 😤,Negative
+I hate feeling so overwhelmed and out of control 😔,Negative
+I just lost my job and don't know what to do 😔,Negative
+I'm so frustrated with how my day is going 😒,Negative
+I just got into a fight with my partner and it's not going well 😞,Negative
+I hate when things don't go according to plan 🤬,Negative
+I'm so disappointed with how things turned out 😔,Negative
+I just got some bad news and I'm feeling down 😞,Negative
+I'm so stressed out with everything going on 😩,Negative
+I hate dealing with difficult people 🙄,Negative
+I just got into a car accident and my car is totaled 😢🚗,Negative
+I'm so tired of the drama in my life 😴,Negative
+I just failed a test I studied so hard for 😞📚,Negative
+I'm so upset about the way things turned out 😔,Negative
+I hate feeling like I'm not good enough 😔,Negative
+I just got rejected from my dream job 😞💼,Negative
+I'm so overwhelmed with everything on my plate 😫,Negative
+I hate dealing with rude and disrespectful people 🤬,Negative
+I just had a falling out with a close friend 😞,Negative
+I'm so disappointed with myself for making a mistake 😔,Negative
+I hate feeling like I'm stuck in a rut 😒,Negative
+I just got into an argument with a family member and it's not going well 😔,Negative
+I'm so frustrated with my lack of progress 😞,Negative
+I hate feeling like I'm not in control of my life 😔,Negative
+I just got some bad news about my health 😞🏥,Negative
+I'm so stressed out about my financial situation 😩💸,Negative
+I hate when things don't go as planned and I have to start over 😒,Negative
+I just got a raise and my salary is now $75000! 🎉💰,Positive
+I'm so excited to be going to Disneyland tomorrow! 🎢🎠,Positive
+I had the best sushi for lunch today at this restaurant: http://www.sushifusion.com 🍣😋,Positive
+I just finished reading an amazing book that I highly recommend! 📚👌,Positive
+I'm so happy to be living in my dream apartment with a view of the ocean 🌊😍,Positive
+I just completed a 5K run in 25 minutes! 🏃‍♀️💪,Positive
+I'm grateful for my new car that gets 40 miles per gallon! 🚗🙏,Positive
+I love my new dress that I got on sale for only $50! 👗💸,Positive
+I just booked a trip to Italy and I'm so excited! 🇮🇹🧳,Positive
+I'm so grateful for my health and fitness journey - I've lost 20 pounds! 🏋️‍♀️🥗,Positive
+I just finished a painting that I'm really proud of! 🎨😊,Positive
+I love my new job and the people I work with! 💼😍,Positive
+I just got a text from my crush asking me out on a date! 😍📱,Positive
+I'm grateful for my supportive community and the Positive energy they bring! 💕🙏,Positive
+I just had the best cup of coffee at this new cafe in town: https://www.cafeculture.com ☕️😋,Positive
+I need to buy 5 oranges for my recipe today 🍊,Neutral
+Can you send me the link to the article you mentioned earlier? 📝🤔,Neutral
+I have a dentist appointment tomorrow at 2pm 🦷😬,Neutral
+I need to water my plants before I leave for work 🌱💦,Neutral
+I'm going to the grocery store after work to buy some milk and bread 🛍️🍞,Neutral
+I'm working on a project with a deadline of next week 🗓️📈,Neutral
+I'm taking a break from work to stretch my legs 🚶‍♀️💪,Neutral
+I need to clean my apartment before my parents come to visit this weekend 🧹🏠,Neutral
+I'm watching a movie and eating popcorn right now 🍿🎥,Neutral
+I need to call my insurance company to update my policy 📞🤔,Neutral
+I'm studying for my final exams next week 📚📝,Neutral
+I'm planning a road trip for this summer with my friends 🚗🌴,Neutral
+I'm browsing the internet for ideas on how to decorate my apartment 🖥️🛋️,Neutral
+I'm doing laundry and folding my clothes right now 🧺👕,Neutral
+I need to buy new shoes for work. my old ones are worn out 👞🛍️,Neutral
+I just got a $500 ticket for parking in the wrong spot 😠🎫,Negative
+My phone bill this month is $200 more than usual. I don't know why 📱💸,Negative
+I tried a new restaurant and got food poisoning. now I'm stuck in bed 😷🤢,Negative
+I can't believe my rent just went up $300. how am I supposed to afford that? 🏠💰,Negative
+I have to work on Saturday this week and I was planning to go to a concert 😩🎶,Negative
+My internet has been down all day and I can't get any work done 🖥️🤬,Negative
+I lost my credit card and someone just charged $1000 on it 🤦‍♀️💳,Negative
+I missed my flight and had to buy a new ticket for $500 😭🛫,Negative
+I got a bad haircut and now I have to wear a hat all week 🧢💇‍♀️,Negative
+I got a parking ticket while I was at the doctor's office. even though I parked in the designated spot 🚗🎫,Negative
+I have to cancel my vacation plans because I can't get time off work 😞🌴,Negative
+My computer crashed and I lost all my important files 😱💻,Negative
+I got into a car accident and my car is totaled 😔🚗,Negative
+I have a cold and can't stop coughing. it's really hard to sleep 😷🤧,Negative
+I just found out my ex is dating someone new. I feel so heartbroken 💔😢,Negative

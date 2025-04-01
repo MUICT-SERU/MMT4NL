@@ -1,0 +1,51 @@
+﻿Question,Perturbed,Expected_answer
+I'm so tired,I'm so not energetic,Negative
+I'm really hungry,I'm really not full.,Neutral
+I'm not sure if I'm up for that,I'm unsure if I'm up for that,Neutral
+I'm not sure if I can make it to the event,I'm unsure if I can make it to the event,Neutral
+I'm feeling a bit confused right now,I'm feeling a bit not clear right now,Neutral
+I'm not sure what to do with my spare time,I'm unsure what to do with my spare time,Neutral
+I'm not sure what to do with my weekend,I'm unsure what to do with my weekend,Neutral
+I'm enjoying this relaxing day at home,I'm enjoying this not stressful day at home,Positive
+I love going on adventures and exploring new things,I do not hate going on adventures and exploring new things,Positive
+I'm so stressed out about my financial situation,I'm so not happy about my financial situation,Negative
+I love my new dress that I got on sale for only $50!,I do not hate my new dress that I got on sale for only $50!,Positive
+I just booked a trip to Italy and I'm so excited!,I just booked a trip to Italy and I'm not so unhappy!,Positive
+I'm so grateful for my health and fitness journey - I've lost 20 pounds!,I'm so not ungrateful for my health and fitness journey - I 've lost 20 pounds!,Positive
+I'm not sure how I feel about this,I'm unsure how I feel about this,Neutral
+The price is a bit high,The price is a bit not low,Neutral
+The weather is perfect today,The weather is not imperfect today,Positive
+The view from here is breathtaking,The view from there is not mind-numbing,Positive
+The internet speed is slow,The internet speed is not fast,Negative
+The noise level is too high,The noise level is too not low,Negative
+The quality of the product is poor,The quality of the product is not good,Negative
+The scenery here is beautiful,The scenery here is not ugly,Positive
+The noise level is tolerable,The noise level is not unbearable,Neutral
+The traffic is light,The traffic is not heavy,Positive
+The view from here is average,The view from here is not remarkable,Neutral
+This software is difficult to use,This software is not easy to use,Negative
+I'm not sure what to think about this,I'm unsure what to think about this,Neutral
+The scenery here is average,The scenery here is not striking,Neutral
+I have no strong feelings about this,I do not have strong feelings about this,Neutral
+The traffic is moderate,The traffic is not extreme,Neutral
+The view from here is stunning,The view from here is not dull,Positive
+This software is very complicated,This software is very not simple,Negative
+The car is not reliable,The car is unreliable,Negative
+The scenery here is breathtaking,The scenery here is not boring,Positive
+I'm not happy with this product,I'm unhappy with this product,Negative
+The weather is nice today,The weather is not bad today,Positive
+I'm not sure if I want to pursue this,I'm unsure if I want to pursue this,Neutral
+This phone is just okay,"This phone is not great, not terrible",Neutral
+The traffic is heavy,The traffic is not light,Negative
+The view from here is unremarkable,The view from here is not striking,Neutral
+I have no strong opinion on this,I do not have strong opinion on this,Neutral
+The car is expensive,The car is not cheap,Negative
+The scenery here is unimpressive,The scenery here is not remarkable,Neutral
+This company is awful,This company is not good,Negative
+I'm very unhappy with this product,I'm very not happy with this product,Negative
+The weather is awful today,The weather is not pleasant today,Negative
+I'm not interested in this topic,I'm uninterested in this topic,Neutral
+This is a useless product,This is a not useful product,Negative
+The traffic is unbearable,The traffic is not tolerable,Negative
+The view from here is unappealing,The view from here is not attractive,Negative
+The car is old and unreliable,The car is not new and not reliable.,Negative
