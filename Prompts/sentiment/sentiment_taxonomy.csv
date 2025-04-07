@@ -1,51 +1,51 @@
-﻿Question,Perturbed,Expected_answer
-I'm so tired,I'm so exhausted,Negative
-I'm really hungry,I'm really starving,Neutral
-I'm not sure if I'm up for that,I'm not certain if I'm up for that,Neutral
-I'm not sure if I can make it to the event,I'm not confident if I can make it to the event,Neutral
-I'm feeling a bit confused right now,I'm feeling a bit disoriented right now,Neutral
-I'm not sure what to do with my spare time,I'm not clear what to do with my spare time,Neutral
-I'm not sure what to do with my weekend,I'm not decided what to do with my weekend,Neutral
-I'm enjoying this relaxing day at home,I'm enjoying this soothing day at home,Positive
-I love going on adventures and exploring new things,I love kick the bucket on adventures and exploring new things,Positive
-I'm so stressed out about my financial situation,I'm so nervous about my financial situation,Negative
-I love my new dress that I got on sale for only $50!,I love my new dress that I got on sales event for only $ 50 !,Positive
-I just booked a trip to Italy and I'm so excited!,I merely booked a trip to Italy and I 'm so excited !,Positive
-I'm so grateful for my health and fitness journey - I've lost 20 pounds!,I'm so grateful for my health and exercise journey - I've lost 20 pounds!,Positive
-I'm not sure how I feel about this,I'm not sure how I experience about this,Neutral
-The price is a bit high,The cost is a bit high,Neutral
-The weather is perfect today,The atmospheric condition is perfect today,Positive
-The view from here is breathtaking,The eyeshot from here is breathtaking,Positive
-The internet speed is slow,The internet speed is wearisome,Negative
-The noise level is too high,The noise degree is too high,Negative
-The quality of the product is poor,The quality of the product is bad,Negative
-The scenery here is beautiful,The decor here is beautiful,Positive
-The noise level is tolerable,The noise level is endurable,Neutral
-The traffic is light,The traffic is flowing,Positive
-The view from here is average,The view from here is typical,Neutral
-This software is difficult to use,This software is difficult to operate,Negative
-I'm not sure what to think about this,I'm not certain what to think about this,Neutral
-The scenery here is average,The scene here is average,Neutral
-I have no strong feelings about this,I have no strong opinion about this,Neutral
-The traffic is moderate,The traffic is average,Neutral
-The view from here is stunning,The view from here is gorgeous,Positive
-This software is very complicated,This software is very complex,Negative
-The car is not reliable,The car is not dependable,Negative
-The scenery here is breathtaking,The scenery here is magnificent,Positive
-I'm not happy with this product,I'm not happy with this item,Negative
-The weather is nice today,The weather is pleasant today,Positive
-I'm not sure if I want to pursue this,I'm not sure if I want to follow this,Neutral
-This phone is just okay,This phone is just decent,Neutral
-The traffic is heavy,The traffic is congested,Negative
-The view from here is unremarkable,The view from here is dull,Neutral
-I have no strong opinion on this,I have no strong stance on this,Neutral
-The car is expensive,The car is pricey,Negative
-The scenery here is unimpressive,The scenery here is forgettable,Neutral
-This company is awful,This company is terrible,Negative
-I'm very unhappy with this product,I'm very unhappy with this item,Negative
-The weather is awful today,The weather is terrible today,Negative
-I'm not interested in this topic,I'm not engaged in this topic,Neutral
-This is a useless product,This is a worthless product,Negative
-The traffic is unbearable,The traffic is intolerable,Negative
-The view from here is unappealing,The view from here is unattractive,Negative
-The car is old and unreliable,The car is old and undependable.,Negative
+﻿Prefix,Question,Perturbed,Expected_answer
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm so tired,I'm so exhausted,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm really hungry,I'm really starving,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure if I'm up for that,I'm not certain if I'm up for that,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure if I can make it to the event,I'm not confident if I can make it to the event,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm feeling a bit confused right now,I'm feeling a bit disoriented right now,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure what to do with my spare time,I'm not clear what to do with my spare time,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure what to do with my weekend,I'm not decided what to do with my weekend,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm enjoying this relaxing day at home,I'm enjoying this soothing day at home,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I love going on adventures and exploring new things,I love kick the bucket on adventures and exploring new things,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm so stressed out about my financial situation,I'm so nervous about my financial situation,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I love my new dress that I got on sale for only $50!,I love my new dress that I got on sales event for only $ 50 !,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I just booked a trip to Italy and I'm so excited!,I merely booked a trip to Italy and I 'm so excited !,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm so grateful for my health and fitness journey - I've lost 20 pounds!,I'm so grateful for my health and exercise journey - I've lost 20 pounds!,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure how I feel about this,I'm not sure how I experience about this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The price is a bit high,The cost is a bit high,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The weather is perfect today,The atmospheric condition is perfect today,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is breathtaking,The eyeshot from here is breathtaking,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The internet speed is slow,The internet speed is wearisome,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The noise level is too high,The noise degree is too high,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The quality of the product is poor,The quality of the product is bad,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is beautiful,The decor here is beautiful,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The noise level is tolerable,The noise level is endurable,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is light,The traffic is flowing,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is average,The view from here is typical,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This software is difficult to use,This software is difficult to operate,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure what to think about this,I'm not certain what to think about this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is average,The scene here is average,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I have no strong feelings about this,I have no strong opinion about this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is moderate,The traffic is average,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is stunning,The view from here is gorgeous,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This software is very complicated,This software is very complex,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The car is not reliable,The car is not dependable,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is breathtaking,The scenery here is magnificent,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not happy with this product,I'm not happy with this item,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The weather is nice today,The weather is pleasant today,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure if I want to pursue this,I'm not sure if I want to follow this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This phone is just okay,This phone is just decent,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is heavy,The traffic is congested,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is unremarkable,The view from here is dull,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I have no strong opinion on this,I have no strong stance on this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The car is expensive,The car is pricey,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is unimpressive,The scenery here is forgettable,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This company is awful,This company is terrible,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm very unhappy with this product,I'm very unhappy with this item,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The weather is awful today,The weather is terrible today,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not interested in this topic,I'm not engaged in this topic,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This is a useless product,This is a worthless product,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is unbearable,The traffic is intolerable,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is unappealing,The view from here is unattractive,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The car is old and unreliable,The car is old and undependable.,Negative

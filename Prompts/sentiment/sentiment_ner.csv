@@ -1,51 +1,51 @@
-﻿Question,Perturbed,Expected_answer
-I'm so tired,Jane is so tired,Negative
-I'm really hungry,Jack is really hungry,Neutral
-I'm not sure if I'm up for that,Jones is not sure if she is up for that,Neutral
-I'm not sure if I can make it to the event,Jill is not sure if she can make it to the event,Neutral
-I'm feeling a bit confused right now,Andy is feeling a bit confused right now,Neutral
-I'm not sure what to do with my spare time,Adam is not sure what to do with his spare time,Neutral
-I'm not sure what to do with my weekend,Amy is not sure what to do with her weekend,Neutral
-I'm enjoying this relaxing day at home,Bill is enjoying this relaxing day at home,Positive
-I love going on adventures and exploring new things,Bob loves going on adventures and exploring new things,Positive
-I'm so stressed out about my financial situation,Cindy is so stressed out about her financial situation,Negative
-I love my new dress that I got on sale for only $50!,Cathy love my new dress that I got on sale for only $ 50!,Positive
-I just booked a trip to Italy and I'm so excited!,I just booked a trip to Brazil and I'm so excited!,Positive
-I'm so grateful for my health and fitness journey - I've lost 20 pounds!,Denis is so grateful for his health and fitness journey - he has lost 20 pounds!,Positive
-I'm not sure how I feel about this,Dan is not sure how he feels about this,Neutral
-The price is a bit high,Chris thinks the price is a bit high,Neutral
-The weather is perfect today,Rachel thinks the weather is perfect today,Positive
-The view from here is breathtaking,David thinks the view from here is breathtaking,Positive
-The internet speed is slow,Jessica thinks the internet speed is slow,Negative
-The noise level is too high,Brian thinks the noise level is too high,Negative
-The quality of the product is poor,Megan thinks the quality of the product is poor,Negative
-The scenery here is beautiful,Lily thinks the scenery here is beautiful,Positive
-The noise level is tolerable,Tom thinks the noise level is tolerable,Neutral
-The traffic is light,Emily thinks the traffic is light,Positive
-The view from here is average,Jake thinks the view from here is average,Neutral
-This software is difficult to use,Sophia thinks this software is difficult to use,Negative
-I'm not sure what to think about this,Noah is not sure what to think about this,Neutral
-The scenery here is average,Grace thinks the scenery here is average,Neutral
-I have no strong feelings about this,Owen has no strong feelings about this,Neutral
-The traffic is moderate,Chloe thinks the traffic is moderate,Neutral
-The view from here is stunning,Liam thinks the view from here is stunning,Positive
-This software is very complicated,Ava thinks this software is very complicated,Negative
-The car is not reliable,Ethan thinks the car is not reliable,Negative
-The scenery here is breathtaking,Zoe thinks the scenery here is breathtaking,Positive
-I'm not happy with this product,Mason is not happy with this product,Negative
-The weather is nice today,Ella thinks the weather is nice today,Positive
-I'm not sure if I want to pursue this,Hannah is not sure if she wants to pursue this,Neutral
-This phone is just okay,Leo thinks this phone is just okay,Neutral
-The traffic is heavy,Isla thinks the traffic is heavy,Negative
-The view from here is unremarkable,Caleb thinks the view from here is unremarkable,Neutral
-I have no strong opinion on this,Natalie has no strong opinion on this,Neutral
-The car is expensive,Lucas thinks the car is expensive,Negative
-The scenery here is unimpressive,Claire thinks the scenery here is unimpressive,Neutral
-This company is awful,Daniel thinks this company is awful,Negative
-I'm very unhappy with this product,Aria is very unhappy with this product,Negative
-The weather is awful today,Benjamin thinks the weather is awful today,Negative
-I'm not interested in this topic,Stella is not interested in this topic,Neutral
-This is a useless product,Henry thinks this is a useless product,Negative
-The traffic is unbearable,Lucy thinks the traffic is unbearable,Negative
-The view from here is unappealing,Nathan thinks the view from here is unappealing,Negative
-The car is old and unreliable,Michael thinks the car is old and unreliable.,Negative
+﻿Prefix,Question,Perturbed,Expected_answer
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm so tired,Jane is so tired,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm really hungry,Jack is really hungry,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure if I'm up for that,Jones is not sure if she is up for that,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure if I can make it to the event,Jill is not sure if she can make it to the event,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm feeling a bit confused right now,Andy is feeling a bit confused right now,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure what to do with my spare time,Adam is not sure what to do with his spare time,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure what to do with my weekend,Amy is not sure what to do with her weekend,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm enjoying this relaxing day at home,Bill is enjoying this relaxing day at home,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I love going on adventures and exploring new things,Bob loves going on adventures and exploring new things,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm so stressed out about my financial situation,Cindy is so stressed out about her financial situation,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I love my new dress that I got on sale for only $50!,Cathy love my new dress that I got on sale for only $ 50!,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I just booked a trip to Italy and I'm so excited!,I just booked a trip to Brazil and I'm so excited!,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm so grateful for my health and fitness journey - I've lost 20 pounds!,Denis is so grateful for his health and fitness journey - he has lost 20 pounds!,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure how I feel about this,Dan is not sure how he feels about this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The price is a bit high,Chris thinks the price is a bit high,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The weather is perfect today,Rachel thinks the weather is perfect today,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is breathtaking,David thinks the view from here is breathtaking,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The internet speed is slow,Jessica thinks the internet speed is slow,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The noise level is too high,Brian thinks the noise level is too high,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The quality of the product is poor,Megan thinks the quality of the product is poor,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is beautiful,Lily thinks the scenery here is beautiful,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The noise level is tolerable,Tom thinks the noise level is tolerable,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is light,Emily thinks the traffic is light,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is average,Jake thinks the view from here is average,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This software is difficult to use,Sophia thinks this software is difficult to use,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure what to think about this,Noah is not sure what to think about this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is average,Grace thinks the scenery here is average,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I have no strong feelings about this,Owen has no strong feelings about this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is moderate,Chloe thinks the traffic is moderate,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is stunning,Liam thinks the view from here is stunning,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This software is very complicated,Ava thinks this software is very complicated,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The car is not reliable,Ethan thinks the car is not reliable,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is breathtaking,Zoe thinks the scenery here is breathtaking,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not happy with this product,Mason is not happy with this product,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The weather is nice today,Ella thinks the weather is nice today,Positive
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not sure if I want to pursue this,Hannah is not sure if she wants to pursue this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This phone is just okay,Leo thinks this phone is just okay,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is heavy,Isla thinks the traffic is heavy,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is unremarkable,Caleb thinks the view from here is unremarkable,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I have no strong opinion on this,Natalie has no strong opinion on this,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The car is expensive,Lucas thinks the car is expensive,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The scenery here is unimpressive,Claire thinks the scenery here is unimpressive,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This company is awful,Daniel thinks this company is awful,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm very unhappy with this product,Aria is very unhappy with this product,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The weather is awful today,Benjamin thinks the weather is awful today,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",I'm not interested in this topic,Stella is not interested in this topic,Neutral
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",This is a useless product,Henry thinks this is a useless product,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The traffic is unbearable,Lucy thinks the traffic is unbearable,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The view from here is unappealing,Nathan thinks the view from here is unappealing,Negative
+"What is the sentiment of the following sentence? Limit your answer to only one of these options: Positive, Negative, or Neutral.",The car is old and unreliable,Michael thinks the car is old and unreliable.,Negative
